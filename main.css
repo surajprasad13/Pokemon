@@ -1,10 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+}
 *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Rubik',
-    sans-serif;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
 body{
     background-color: orangered;
@@ -67,4 +66,3 @@ button:hover{
     transform: translateY(-1px);
     box-shadow: 0px 1px 2px;
     background-color: palevioletred;
-}
